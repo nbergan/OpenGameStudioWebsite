@@ -1,5 +1,15 @@
 @charset 'UTF-8';
-@font-face{font-family:'FontAwesome';src:url('font/fontawesome-webfont.eot?v=5.0.11');src:url('font/fontawesome-webfont.eot?#iefix&v=5.0.11') format('embedded-opentype'),url('font/fontawesome-webfont.woff?v=5.0.11') format('woff'),url('font/fontawesome-webfont.ttf?v=5.0.11') format('truetype'),url('font/fontawesome-webfont.svg?v=5.0.11#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}
+@font-face{
+    font-family:'FontAwesome';
+    src:url('font/fontawesome-webfont.eot?v=5.0.11');
+    src:url('font/fontawesome-webfont.eot?#iefix&v=5.0.11') 
+        format('embedded-opentype'),url('font/fontawesome-webfont.woff?v=5.0.11') 
+        format('woff'),url('font/fontawesome-webfont.ttf?v=5.0.11') 
+        format('truetype'),url('font/fontawesome-webfont.svg?v=5.0.11#fontawesomeregular') 
+        format('svg');
+    font-weight:normal;
+    font-style:normal
+    }
 
 /*
 	MegaCorp by TEMPLATED
@@ -19,7 +29,7 @@ body
 
 body, #skel-panels-pageWrapper
 {
-	background: #101214 url(images/main-bg.png) repeat;
+	background: #090C13 url(images/main-bg.png) repeat;
 }
 
 h1, h2, h3 {
@@ -70,7 +80,7 @@ a:hover
 	{
 		position: relative;
 		display: inline-block;
-		background: #2B8FC4;
+		background: #EE1F48;
 		padding: 0.8em 2em;
 		border-radius: 4px;
 		text-decoration: none;
@@ -87,7 +97,7 @@ a:hover
 
 	.button:hover
 	{
-		background: #167cb2;
+		background: #EC4566;
 		color: #FFF !important;
 	}
 
@@ -188,7 +198,7 @@ a:hover
 		margin: 0em 1em 1em 0em;
 		text-transform: uppercase;
 		font-size: .80em;
-		background: #2B8FC4;
+		background: #EE1F48;
 		border-radius: 5px;
 		border: 1px solid #165272;
 		box-shadow: 0px 1px 5px rgba(0,0,0,.4);
@@ -865,7 +875,7 @@ a:hover
 	{
 		position: relative;
 		padding: 6em 0em;
-		background: #0c0e0f;
+		background: #090C13;
 		text-align: center;
 	}
 	
