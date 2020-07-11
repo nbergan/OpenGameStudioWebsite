@@ -967,6 +967,15 @@ a:hover
     height: 50px;
 }
 
+.image-style3 {
+    display: block;
+    width: 80%;
+}
+
+.image-style4 {
+    display: block;
+    width: 60%;
+}
 
 
 
