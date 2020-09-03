@@ -735,6 +735,13 @@ a:hover
 		position: relative;
 	}
 	
+	#header-wrapper2
+	{
+		background: url(../images/RollBall_Image1.png) no-repeat center top;
+		background-size: cover;
+		position: relative;
+	}
+
 	#header-wrapper:before
 	{
 		content: '';
